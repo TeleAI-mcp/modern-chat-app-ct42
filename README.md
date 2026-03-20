@@ -1,2 +1,3 @@
-# modern-chat-app-ct42
-Automated issue comment bot repository
+# Modern Chat App Ct42
+
+Automated issue comment bot repository.
